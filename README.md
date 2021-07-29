@@ -11,7 +11,7 @@
 - 😎 Confeitaria e marcenaria são duas de minhas paixões
 - Contate-me:
   [![LinkedinBadge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereiramendonca/)](https://www.linkedin.com/in/pereiramendonca/)
-  [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](https://www.linkedin.com/in/pereiramendonca/)
+  [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:absphreak@outlook.com)
 </div >
 </br>
 
