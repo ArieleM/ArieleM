@@ -10,7 +10,7 @@
 - 🌱 Estou estudando <b>NodeJS</b> e <b>TypeScript</b><br/>
 - 😎 Confeitaria e marcenaria são duas de minhas paixões
 - Contate-me:
-  [![LinkedinBadge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereiramendonca/)](https://www.linkedin.com/in/pereiramendonca/)
+  [![LinkedinBadge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielem/)](https://www.linkedin.com/in/arielem/)
   [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:ariele_apm@outlook.com)
 </div >
 </br>
